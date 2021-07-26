@@ -3,7 +3,7 @@ Yt-video-downloader
 New Repository from Hackers United 
 This is a Youtube Video Downloader From Hackers United 
 It was created using Python
-Works for Linux, Termux, Ubuntu
+Works for Linux, Windows
 Follow the command below to install or clone it 
 
 apt-get update && apt-get upgrade
